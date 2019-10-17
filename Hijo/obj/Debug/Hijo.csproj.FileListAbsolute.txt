@@ -1,0 +1,7 @@
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\bin\Debug\Hijo.exe.config
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\bin\Debug\Hijo.exe
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\bin\Debug\Hijo.pdb
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\obj\Debug\Hijo.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\obj\Debug\Hijo.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\obj\Debug\Hijo.exe
+C:\Users\andermaestre\source\repos\EjerciciosPipes4\Hijo\obj\Debug\Hijo.pdb
